@@ -34,7 +34,7 @@ direct change test #1
 
     -m
   
-  ##then, how possibley it works on git-'hub' ???
+  ##then, how possibly it works on git-'hub' ???
 
 // ok
 
