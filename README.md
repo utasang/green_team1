@@ -65,3 +65,8 @@ direct change test #1
 
   abc
   abc
+
+  # check the law
+
+  #abc
+  abc
