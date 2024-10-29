@@ -55,3 +55,10 @@ direct change test #1
   
   // ##then, how possibley it works on git-'hub' ???
     what is this?
+
+  //
+  this has no local git <br>
+  need to find
+
+    this has no local git <br>
+    need to find
