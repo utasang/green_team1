@@ -19,3 +19,6 @@ direct change test #1
   ##### test 5
 
   above tag has a link button
+
+  # gui&emoji test 😊😗
+  gui&emoji test 😊😗
