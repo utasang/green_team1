@@ -1,4 +1,4 @@
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+// <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
 
 then, can i use this hub to workspace? test
 sysout wow legendary,
@@ -10,3 +10,6 @@ sysout wow legendary,
 maybe it wokrs lib, but 
 
 https://github.com/openjdk/jdk
+
+FUCK THE 
+  HELL
