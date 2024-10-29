@@ -4,9 +4,14 @@ md = markdown // 자기소개 랜덤게임 apt apt apt
 
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 
-![Alt text](/path/to/uta_kosimi.jpg " 마 케 요 시 미 ~ ")
+![Alt text](/F:\마케요시미.jpg " 마 케 요 시 미 ~ ")
 
 --- testbed ---
+
+태그 <hr> 수평
+
+ctrl + s 가 커밋 ... ???
+
 # new remote repo plz 10.30.
 direct change test #1
   commit -m "?"
