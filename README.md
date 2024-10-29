@@ -49,3 +49,9 @@ direct change test #1
     ## -m
 
 // end
+
+  this has no local git
+  need to find
+  
+  // ##then, how possibley it works on git-'hub' ???
+    what is this?
