@@ -28,4 +28,10 @@ direct change test #1
 
     ##then, how possibley it works on git-'hub' ???
     what is this?
+
+    ##then, how possibley it works on git-'hub' ???
+    what is this?
+
+    -m
+  
   ##then, how possibley it works on git-'hub' ???
