@@ -11,9 +11,10 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
  <img src = "./utasig.jpg" placeholder = 마케요시미test >
 </p>
 
+<hr>
 --- testbed ---
 
-태그 <hr> 수평
+태그 <!-- <hr> --> 수평
 
 ctrl + s 가 커밋 ... ???
 
