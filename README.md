@@ -10,7 +10,7 @@ direct change test #1
   raw
   # may works like html <h>
 
-  ## keep this in use to commit in github teatbed
+  ## keep this in use to commit in github testbed
 
   # test 1
   ## test 2
@@ -73,3 +73,5 @@ direct change test #1
   abc
 
   # success
+
+  find link&gui commit&how-work-emoji
