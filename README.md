@@ -11,7 +11,11 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
  <img src = "./utasig.jpg" placeholder = 마케요시미 >
 </p>
 
-<h1 align="center">마 케 요 시 미 ~ ~ ~</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 36px; color: #4A90E2;">
+    마 케 요 시 미 ~ ~ ~
+</h1>
+
+<!-- <h1 align="center">마 케 요 시 미 ~ ~ ~</h1> -->
 
 <!-- 마크다운은 기본적으로 텍스트일까? 텍스트는 별도 밸류 선언이나 지정이 없는 듯 몰?루 -->
  
