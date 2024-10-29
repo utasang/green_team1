@@ -1,4 +1,10 @@
 # green_team1
+
+md = markdown // 자기소개 랜덤게임 apt apt apt
+
+https://gist.github.com/ihoneymon/652be052a0727ad59601
+
+--- testbed ---
 # new remote repo plz 10.30.
 direct change test #1
   commit -m "?"
