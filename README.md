@@ -22,3 +22,10 @@ direct change test #1
 
   # gui&emoji test 😊😗
   gui&emoji test 😊😗
+
+  add & commit use same(actually not same,) stage.
+  add : create stage(local to ... stage?) / commit : save (local to ... stage?)
+
+    ##then, how possibley it works on git-'hub' ???
+    what is this?
+  ##then, how possibley it works on git-'hub' ???
