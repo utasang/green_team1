@@ -75,3 +75,5 @@ direct change test #1
   # success
 
   find link&gui commit&how-work-emoji
+
+download & compile & how to check this works with out local system?
