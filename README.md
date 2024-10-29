@@ -5,6 +5,7 @@ md = markdown // 자기소개 랜덤게임 apt apt apt
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 <!-- ![Alt text](./utasig.jpg " 마 케 요 시 미 ~ ") -->
+<hr>
 
 <p align="center">
  <img src = "./utasig.jpg" placeholder = 마케요시미test >
