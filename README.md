@@ -1,5 +1,7 @@
 # green_team1
 
+핼러윈 기념 1 커밋 sudo apt
+
 md = markdown // 자기소개 랜덤게임 apt apt apt
 
 https://gist.github.com/ihoneymon/652be052a0727ad59601
