@@ -1,6 +1,6 @@
 # green_team1
 
-핼러윈 기념 1 커밋 sudo apt
+핼러윈 기념 1 커밋 sudo apt !@
 
 md = markdown // 자기소개 랜덤게임 apt apt apt
 
