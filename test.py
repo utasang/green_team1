@@ -39,3 +39,9 @@ print(" 깃헙 만든놈 ")
 # comment
 
 돌고돌아 C-put
+
+# 1. <<<<<<< utasang-patch-1
+
+error 1
+# 1. =======
+# 1. >>>>>>> main
