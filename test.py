@@ -55,3 +55,9 @@ error 1
   test
 
   # 우아아아악앙 c-put
+
+  1 parent 
+c6ad590
+ commit 
+ae19c4f
+ # dup check ( 1~ 17 & ~ 34 )
